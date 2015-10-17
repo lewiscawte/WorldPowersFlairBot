@@ -1,4 +1,4 @@
 while true
-    do python flairbot.py
+    do python flair_bot.py
     sleep 5s
 done
